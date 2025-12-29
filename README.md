@@ -13,6 +13,9 @@ C# ve SQLite kullanılarak geliştirilmiş, XOR şifreleme destekli bir şifre y
 
 #  Kurulum ve Çalıştırma
 -Projeyi bilgisayarınıza indirin: git clone https://github.com/DenizGoksu/Password_Vault.git
+
 -Proje klasörüne girin: cd Password_Vault
+
 -Gerekli kütüphaneleri yükleyin: dotnet restore
+
 -Uygulamayı çalıştırın: dotnet run
